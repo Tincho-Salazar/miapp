@@ -14,7 +14,7 @@ Practico 3 Argentina Programa 4.0
 
 ## Enlace al Proyecto Desplegado
 
-Visita la [Proyecto Desplegado](https://tincho-salazar.github.io/miapp/) para ver la aplicación en vivo.
+Visita el [Proyecto Desplegado](https://tincho-salazar.github.io/miapp/) para ver la aplicación en vivo.
 
 ### Estructura del Proyecto
 
