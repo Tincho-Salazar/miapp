@@ -11,13 +11,13 @@ import {
 import { FaTruck, FaRegCreditCard } from "react-icons/fa6";
 
 const Pagos = [
-  './public/banelco@2x.png',
-  './public/mastercard@2x.png',
-  './public/mercadopago@2x.png',
-  './public/pagofacil@2x.png',
-  './public/rapipago@2x.png',
-  './public/tarjeta-naranja@2x.png',
-  './public/visa@2x.png'
+  './banelco@2x.png',
+  './mastercard@2x.png',
+  './mercadopago@2x.png',
+  './pagofacil@2x.png',
+  './rapipago@2x.png',
+  './tarjeta-naranja@2x.png',
+  './visa@2x.png'
 ]
 
 const datos = [
@@ -52,7 +52,7 @@ const datos = [
   { item: 'Cantidad de Slots', descripcion: '1 Zócalo Libre - 1 Zócalo Ocupado' },
 ];
 
-const mainImageSrc = './public/bangogral.png'; // Ruta de la imagen principal
+const mainImageSrc = './bangogral.png'; // Ruta de la imagen principal
 function Body() {
   return (
     <>
@@ -90,21 +90,21 @@ function Body() {
               <Image
                 boxSize='25px'
                 objectFit='cover'
-                src='./public/bango1.png'
+                src='./bango1.png'
                 alt='img1'
                 _hover={{ opacity: 0.7, cursor: 'pointer' }}
               />
               <Image
                 boxSize='25px'
                 objectFit='cover'
-                src='./public/bango2.png'
+                src='./bango2.png'
                 alt='img2'
                 _hover={{ opacity: 0.7, cursor: 'pointer' }}
               />
               <Image
                 boxSize='25px'
                 objectFit='cover'
-                src='./public/bango3.png'
+                src='./bango3.png'
                 alt='img3'
                 _hover={{ opacity: 0.7, cursor: 'pointer' }}
               />

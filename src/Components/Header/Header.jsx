@@ -61,8 +61,6 @@ const linkStyle = {
   textDecoration: "none",
 };
 
-//https://www.tidi.com.ar/informatica-y-celulares/computadoras/Gris%20oscuro?O=OrderByBestDiscountDESC&PS=20&map=c,c,specificationFilter_196
-
 const Header = () => {
   const [isLargerThanMd] = useMediaQuery("(min-width: 48em)");
 
@@ -88,7 +86,7 @@ const Header = () => {
             variant="logo"
             style={linkStyle}
           >
-            <Image src="./public/logo.png" alt="Logo" />
+            <Image src="./logo.png" alt="Logo" />
             LogStore
           </Link>
           {isLargerThanMd ? (
