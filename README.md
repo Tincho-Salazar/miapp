@@ -57,7 +57,7 @@ Visita la [Proyecto Desplegado](https://tincho-salazar.github.io/miapp/) para ve
     npm run dev
 
 ## Capturas de Pantalla
-[Detalle del Producto]}public/imagen_producto.png)
+[Detalle del Producto](public/Imagen_producto.png)
 
 ## Contribucion
 
