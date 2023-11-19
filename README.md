@@ -58,6 +58,7 @@ Visita la [Proyecto Desplegado](https://tincho-salazar.github.io/miapp/) para ve
 
 ## Capturas de Pantalla
 ![descripción de la imágen](public/Imagen_producto.png)
+<<<<<<< HEAD
 
 ## Contribucion
 
@@ -133,6 +134,8 @@ Visita la [Proyecto Desplegado](https://tincho-salazar.github.io/miapp/) para ve
 
 ## Capturas de Pantalla
 [Detalle del Producto}(public/Practico 3 Argentina Programa 4.0.png)
+=======
+>>>>>>> 593180985e253487679eb4087bc4f4ca08de7e30
 
 ## Contribucion
 
