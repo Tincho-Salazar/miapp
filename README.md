@@ -1,13 +1,70 @@
-<<<<<<< HEAD
-# React + Vite
+# Proyecto React + Vite + Chakra UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto tiene como objetivo crear una aplicación con React, desarrollando el maquetado de una página de detalle de un producto para un sitio de ecommerce. La página mostrará información crucial sobre el producto, incluyendo Nombre, Descripción, Precio, SKU y Cantidad disponible. El maquetado se realizará utilizando componentes de Chakra UI.
 
-Currently, two official plugins are available:
+## Contenido
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Clase3
+1. [Estructura del Proyecto](#estructura-del-proyecto)
+2. [Instalación](#instalación)
+3. [Uso](#uso)
+4. [Capturas de Pantalla](#capturas-de-pantalla)
+5. [Contribución](#contribución)
+6. [Licencia](#licencia)
 Practico 3 Argentina Programa 4.0
->>>>>>> a9ae8629b0195a10b077fd701ac5ef7065200332
+
+## Estructura del Proyecto
+/
+    > public
+        -- imagenes para la web
+    > src
+        > Components
+            > Body
+            > Header 
+            > Footer
+        > assets
+             favicon 
+        --App.css
+        --App.jsx
+        --index.css
+        --main.jsx
+    --.eslintrc.cjs
+    --.gitignore
+    --README.md
+    --index.html
+    --package-lock.json
+    --package.json
+    --vite.config.js
+
+## Instalación
+
+1. Clona el repositorio:
+
+    git clone https://github.com/tu-usuario/tu-proyecto.git
+    cd tu-proyecto
+
+2. Instala las dependencias:
+    npm install
+
+## Uso
+    Inicia la aplicación en modo de desarrollo:
+
+    npm run dev
+
+## Capturas de Pantalla
+    Detalle del Producto    
+
+## Contribucion
+
+    Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
+
+    1.  Haz un fork del repositorio
+    2.  Crea una nueva rama (git checkout -b feature/nueva-caracteristica)
+    3.  Realiza tus cambios y haz commit (git commit -am 'Añadir nueva característica')
+    4.  Haz push a la rama (git push origin feature/nueva-caracteristica)
+    5.  Crea un nuevo Pull Request
+
+## Licencia
+    Este proyecto está bajo la Licencia MIT.
+
+    `Tincho-Salazar` y `myapp` 
+
