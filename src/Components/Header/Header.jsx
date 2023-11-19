@@ -86,7 +86,7 @@ const Header = () => {
             variant="logo"
             style={linkStyle}
           >
-            <Image src="./logo.png" alt="Logo" />
+            <Image src={"./logo.png"} alt="Logo" />
             LogStore
           </Link>
           {isLargerThanMd ? (
