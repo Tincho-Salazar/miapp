@@ -57,7 +57,7 @@ Visita la [Proyecto Desplegado](https://tincho-salazar.github.io/miapp/) para ve
     npm run dev
 
 ## Capturas de Pantalla
-[Detalle del Producto}(public/Practico 3 Argentina Programa 4.0.png)
+[Detalle del Producto}(public/imagen_producto.png)
 
 ## Contribucion
 
