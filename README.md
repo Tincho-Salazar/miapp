@@ -12,28 +12,32 @@ Este proyecto tiene como objetivo crear una aplicación con React, desarrollando
 6. [Licencia](#licencia)
 Practico 3 Argentina Programa 4.0
 
+## Enlace al Proyecto Desplegado
+
+Visita la [Proyecto Desplegado](https://tincho-salazar.github.io/miapp/) para ver la aplicación en vivo.
+
 ## Estructura del Proyecto
-/
-    > public
-        -- imagenes para la web
-    > src
-        > Components
-            > Body
-            > Header 
-            > Footer
-        > assets
-             favicon 
-        --App.css
-        --App.jsx
-        --index.css
-        --main.jsx
-    --.eslintrc.cjs
-    --.gitignore
-    --README.md
-    --index.html
-    --package-lock.json
-    --package.json
-    --vite.config.js
+1. /
+2.    > public
+3.        -- imagenes para la web
+4.    > src
+5.        > Components
+6.            > Body
+7.            > Header 
+8.            > Footer
+9.        > assets
+10.             favicon 
+11.        --App.css
+12.        --App.jsx
+13.        --index.css
+14.        --main.jsx
+15.    --.eslintrc.cjs
+16.    --.gitignore
+17.    --README.md
+18.    --index.html
+19.    --package-lock.json
+20.    --package.json
+21.    --vite.config.js
 
 ## Instalación
 
@@ -51,7 +55,7 @@ Practico 3 Argentina Programa 4.0
     npm run dev
 
 ## Capturas de Pantalla
-    Detalle del Producto    
+![Detalle del Producto}(public/Practico 3 Argentina Programa 4.0.png)
 
 ## Contribucion
 
