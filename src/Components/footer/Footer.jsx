@@ -15,7 +15,7 @@ const Footer = () => {
         <Box>
           {/* Logo y nombre */}
           <Link fontSize='24px' variant="logo" style={linkStyle}>
-            <Image src="./logo.png" alt="Logo" width='50px' height='50px' />
+            <Image src="./marca.png" alt="Logo" width='50px' height='50px' />
             LogStore
           </Link>
         </Box>
